@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/spencerhhubert-illustrator-mcp-server-badge.png)](https://mseep.ai/app/spencerhhubert-illustrator-mcp-server)
+
 # Illustrator MCP Server
 Adobe Illustrator is compatible with JavaScript. In fact, some super big stuff you need to programmatically generate with these scripts. Bots are good at JavaScript.
 
